@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Auxilio</string>
+    <string name="title_activity_main_">Main_Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_up_log_in">SIgnUpLogIn</string>
+    <string name="title_activity_sign_up">SIgnUp</string>
+    <string name="title_activity_helper_sign_up">HelperSignUp</string>
+    <string name="title_activity_helper">Helper</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
